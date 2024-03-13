@@ -1,7 +1,8 @@
-<a href="https://velog.io/@jeon0728/posts" target="_blank"><img src="https://img.shields.io/badge/벨로-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@jeon0728/posts" target="_blank"><img src="https://img.shields.io/badge/블로그-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeon0728)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 ![jeon0728's github stats](https://github-readme-stats.vercel.app/api?username=jeon0728&show_icons=true)
 [![jeon0728's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon0728&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jeon0728)
 
