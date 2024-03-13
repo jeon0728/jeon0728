@@ -7,6 +7,7 @@
 [![jeon0728's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeon0728&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jeon0728)
 <br>
 ![jeon0728's github stats](https://github-readme-stats.vercel.app/api?username=jeon0728&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeon0728&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <!--
 **jeon0728/jeon0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
