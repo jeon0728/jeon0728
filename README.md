@@ -1,4 +1,5 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeon0728)](https://github.com/ryo-ma/github-profile-trophy)
