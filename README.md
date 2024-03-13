@@ -1,4 +1,4 @@
-<a href="https://velog.io/@jeon0728/posts" target="_blank"><img src="https://img.shields.io/badge/블로그-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeon0728)](https://github.com/ryo-ma/github-profile-trophy)
