@@ -5,7 +5,7 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![vue](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D)
+![vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D)
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
